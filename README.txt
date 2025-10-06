@@ -1,0 +1,1 @@
+Instrukcja wdrożenia: https://vercel.com/docs
